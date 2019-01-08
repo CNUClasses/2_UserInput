@@ -20,6 +20,7 @@ int main()
 
 
 
+
 	// read the name
 	std::string name;     // define `name'
 	std::cin >> name;     // read into `name'
