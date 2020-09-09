@@ -11,17 +11,9 @@
 
 int main()
 {
+	int i=0;
 	// ask for the person's name
 	std::cout << "Please enter your first name: "<<std::endl;;
-
-
-
-
-
-
-
-
-
 
 	// read the name
 	std::string name;     // define `name'
